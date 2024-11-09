@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "All in one company",
+    "paragraph": "we offer diverse services starting from Agricultural, shoes, transportation, printing and many more ."
+  },
+  "About": {
+    "paragraph": "At Ellie&Char, we are dedicated to bringing you the finest products and services across various industries, including motorcycles, Irish potatoes, printers, and shoes. Our journey began with a passion for quality and a commitment to excellence. We believe in offering only the best to our customers, and our diverse range of products reflects this dedication. Each product is carefully selected and tested to ensure it meets our high standards. Our team is driven by innovation, integrity, and a customer-first approach, making Ellie&Char a trusted name in every category we serve.",
+    "Why": [
+      "Quality Assurance",
+      "Diverse Product Range",
+      "Customer-Centric Approach",
+      "Innovative Solutions"
+    ],
+    "Why2": [
+      "Sustainable Practices",
+      "Competitive Pricing",
+      "Expert Team",
+      "Trusted Brand"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpeg",
+      "smallImage": "img/portfolio/01-small.jpeg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpeg",
+      "smallImage": "img/portfolio/02-small.jpeg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpeg",
+      "smallImage": "img/portfolio/03-small.jpeg"
+    },
+    {
+      "title": "printing",
+      "largeImage": "img/portfolio/04-large.jpeg",
+      "smallImage": "img/portfolio/04-small.jpeg"
+    },
+    {
+      "title": "irish",
+      "largeImage": "img/portfolio/05-large.jpeg",
+      "smallImage": "img/portfolio/05-small.jpeg"
+    },
+    {
+      "title": "shoes",
+      "largeImage": "img/portfolio/06-large.jpeg",
+      "smallImage": "img/portfolio/06-small.jpeg"
+    },
+    {
+      "title": "shoes",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "irish",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "img": "img/services/04.jpeg",
+      "name": "Motorcycle Business",
+      "text": "At Ellie&Char, we offer high-performance motorcycles that deliver thrill and freedom. Our bikes are thoroughly inspected for safety and reliability, whether you seek a street bike, cruiser, or touring motorcycle."
+    },
+    {
+      "img": "img/services/01.jpg",
+      "name": "Irish Potato Business",
+      "text": "Ellie&Char's Irish potatoes are grown in rich, fertile soils, delivering exceptional quality and flavor. Perfect for any dish, our potatoes are tasty with a good flavour. Taste the difference with our premium produce."
+    },
+    {
+      "img": "img/services/05.jpeg",
+      "name": "Printer Businessr",
+      "text": "Ellie&Char provides top-notch printers for home and business use. Our range includes compact models to high-volume machines, all offering fast, efficient, and eco-friendly performance. Discover the future of printing with us."
+    },
+    {
+      "img": "img/services/02.jpeg",
+      "name": "Shoe Business",
+      "text": "Step into comfort and style with Ellie&Char's footwear collection. Our shoes are crafted with the finest materials, blending timeless fashion with modern trends. Whether for dress or casual wear, walk confidently with Ellie&Char."
+    },
+    {
+      "img": "img/services/06.jpg",
+      "name": "General Business Message",
+      "text": "Ellie&Char offers products that enrich your life, from motorcycles to Irish potatoes, printers to stylish shoes. Our commitment to quality, and customer service ensures the best in every category. Trust Ellie&Char to enhance your lifestyle."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.png",
+      "name": "Chance Kondowe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Ellie Kondowe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Malcom Kondowe",
+      "job": " Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Faith Kondowe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Mzimba, chanthomba, Malawi ",
+    "phone": "+265 880 457 032",
+    "email": "bsc-com-ne-19-19@unima.ac.mw",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Diverse Product Offerings",
+      "text": "Ellie&Char provides a wide range of products, including motorcycles, Irish potatoes, printers, shoes, and more, catering to various customer needs under one brand."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Quality Assurance",
+      "text": "Each product sold by Ellie&Char undergoes stringent quality checks, ensuring customers receive only the best and most reliable items."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Customer-Centric Service",
+      "text": " Ellie&Char prioritizes customer satisfaction, offering personalized service, expert advice, and responsive support to enhance the overall shopping experience."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Sustainability Commitment:",
+      "text": "The business is dedicated to environmentally responsible practices, ensuring that products are sustainably sourced and have a minimal environmental impact."
+    }
+  ]
+}
