@@ -25,11 +25,11 @@ export const Contact = (props) => {
       .sendForm("service_0nb487q", "template_qqcovwc", e.target, "yVrwyDD4y-BfikX-GIbZi")
       .then(
         (result) => {
-          console.log(result.text);
+          console.log("Email successfully sent:", result.text);
           clearState();
         },
         (error) => {
-          console.log(error.text);
+          console.error("Email sending failed:", error.text);
         }
       );
   };
