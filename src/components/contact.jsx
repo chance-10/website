@@ -22,7 +22,7 @@ export const Contact = (props) => {
     console.log(name, email, message);
     
     emailjs
-      .sendForm("service_ex01h2k", "template_nnlxux4", e.target, "7XuusxucPT37sZGoX")
+      .sendForm("service_ex01h2k", "template_lu2fez9", e.target, "7XuusxucPT37sZGoX")
       .then(
         (result) => {
           console.log("Email successfully sent:", result.text);
@@ -52,7 +52,6 @@ export const Contact = (props) => {
                     <div className="form-group">
                       <input
                         type="text"
-                        id="name"
                         name="name"
                         className="form-control"
                         placeholder="Name"
@@ -66,7 +65,6 @@ export const Contact = (props) => {
                     <div className="form-group">
                       <input
                         type="email"
-                        id="email"
                         name="email"
                         className="form-control"
                         placeholder="Email"
@@ -80,7 +78,6 @@ export const Contact = (props) => {
                 <div className="form-group">
                   <textarea
                     name="message"
-                    id="message"
                     className="form-control"
                     rows="4"
                     placeholder="Message"
