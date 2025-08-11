@@ -7,7 +7,7 @@ const initialState = {
   message: "",
 };
 
-export const Contact = (props) => {
+export const contact = (props) => {
   const formRef = useRef();
   const [{ name, email, message }, setState] = useState(initialState);
 
