@@ -173,5 +173,3 @@ export const Contact = (props) => {
     </div>
   );
 };
-
-export default Contact; 
