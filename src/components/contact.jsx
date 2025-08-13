@@ -2,14 +2,14 @@ import { useRef, useState } from "react";
 import emailjs from "@emailjs/browser";
 
 const initialState = {
-  name: "",
-  email: "",
+  user_name: "",
+  user_email: "",
   message: "",
 };
 
 export const Contact = (props) => {
   const formRef = useRef();
-  const [{ name, email, message }, setState] = useState(initialState);
+  const [{ user_name, user_email, message }, setState] = useState(initialState);
 
   const handleChange = (e) => {
     const { name, value } = e.target;
@@ -62,7 +62,7 @@ export const Contact = (props) => {
                       name="user_name" // must match EmailJS template var
                       className="form-control"
                       placeholder="Name"
-                      value={name}
+                      value={user_name}
                       onChange={handleChange}
                       required
                     />
@@ -76,7 +76,7 @@ export const Contact = (props) => {
                       name="user_email" // must match EmailJS template var
                       className="form-control"
                       placeholder="Email"
-                      value={email}
+                      value={user_email}
                       onChange={handleChange}
                       required
                     />
